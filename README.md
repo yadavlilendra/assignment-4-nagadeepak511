@@ -1,5 +1,6 @@
 # assignment-4-nagadeepak511
-assignment-4-nagadeepak511 created by GitHub Classroom
+
+JavaScript(filtering restaurant data based on rating)
 
 function for part a:
 > findAverage(ratingData)
